@@ -8,7 +8,7 @@ About me ⬇️:
 My skills 💻:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,postman,react,redux,ts,vscode,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,git,postman,react,redux,vscode,webpack)](https://skillicons.dev)
 
 
 Contacts 📲:
