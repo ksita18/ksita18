@@ -1,16 +1,23 @@
-## Hi there 👋
+## Привет, меня зовут Ксения Литвинова 👋
 
-<!--
-**ksita18/ksita18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me ⬇️:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я стала frontend-разработчиком, потому что мне очень нравится видеть результат своей работы, а еще я люблю создавать что-нибудь новое. 
+
+My skills 💻:
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,postman,react,redux,ts,vscode,webpack)](https://skillicons.dev)
+
+
+Contacts 📲:
+
+
+- telegram: @ksita_ksita
+
+
+- email: ksita.ksita2008@gmail.com
+
+
+
